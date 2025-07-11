@@ -1,0 +1,2 @@
+# Xinz
+Xinz.paymet
